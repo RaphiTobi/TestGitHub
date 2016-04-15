@@ -1,2 +1,2 @@
 # TestGitHub
-To test how to use Git Hub
+This is to test how to use Git Hub
